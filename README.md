@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://fb.com/MOHSIN.ALI.THE.FATHER.OF.HATERX"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.instagram.com/mohsinaliofficial786"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/MohsinTheLegend"><img title="Github" src="https://img.shields.io/badge/Github-MohsinTheLegend-blue?style=for-the-badge&logo=github"></a>
+
+
 # COMMANDS 
 
 *➤ pkg update && upgrade
