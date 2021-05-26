@@ -4,27 +4,38 @@
 <a href="https://github.com/MohsinTheLegend"><img title="Github" src="https://img.shields.io/badge/Github-MohsinTheLegend-blue?style=for-the-badge&logo=github"></a>
 
 
-# COMMANDS 
+# Installation :
 
-*➤ pkg update && upgrade
+☠ `apt update && apt install nodejs -y`
 
-*➤ pkg install git && pkg install python2
+☠ `apt upgrade -y`
 
-*➤ pkg install python && pkg install php
+☠ `apt install git -y`
 
-*➤ pip install requests && pip install mechanize 
+☠ `pkg install python`
 
-*➤ pip2 install mechanize && pip2 install requests 
+☠ `pkg install python2 -y`
 
-*➤ pip2 install requests bs4
+☠ `pip2 install requests`
 
-*➤ git clone https://github.com/MohSinTheLegend/ALI-V2
+☠ `pip2 install mechanize`
 
-*➤ cd ALI-V2 
+☠ `pip2 install mechanize`
 
-*➤ python2 MOHSIN.pyc
+☠ `pip2 install futures`
 
+☠ `apt install ruby -y && gem install lolcat`
 
-# Tool User And Pass
-*➤ Username : MOHSIN 
-*➤ Password : SYCO
+# Clone this Script :
+
+☠ `git clone https://github.com/MohsinTheLegend/ALI-V2`
+
+# Run Script
+
+☠ `cd ALI-V2`
+
+☠ `python2 MOHSIN.pyc`
+
+# TOOL USERNAME OR PASS
+USER `MOHSIN
+PASS `SYCO`
