@@ -37,5 +37,5 @@
 ☠ `python2 MOHSIN.pyc`
 
 # TOOL USERNAME OR PASS
-# USER `MOHSIN
+# *USER `MOHSIN`
 # PASS `SYCO`
