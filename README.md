@@ -3,8 +3,7 @@
 
 <a href="#"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-href="https://github.com/MohsinTheLegend"><img title="Author" src="https://img.shields.io/badge/Author-MOHSIN-ALI-red.svg?style=for-the-badge&logo=github"></a>
-</p>
+
 
 # Installation :
 
