@@ -31,7 +31,8 @@ pkg update
 
 *pip2 install nodejs 
 
-*pip2 install npm 
+*pip2 install npm ![InShot_20210711_164136513](https://user-images.githubusercontent.com/72184388/125193695-29756380-e267-11eb-9780-3b15d5e6e245.jpg)
+
 
 *pip2 install requests bs4
 
