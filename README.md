@@ -51,9 +51,9 @@ python2 MOHSIN.py
 ➤ *Password : No Need
 
 # WARNING :
-`THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE.
-IF  YOU USE THIS TOOL FOR OTHER PURPOSES except Education WE will not be responsible in such cases`
-
+THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE.
+IF  YOU USE THIS TOOL FOR OTHER PURPOSES except Education WE will not be responsible in such cases
+````
 
 
 <h1 align="center"> MY SOCIAL MEDIA </h1>
