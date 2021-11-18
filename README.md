@@ -7,7 +7,7 @@
 
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&multiline=true&lines=Fuck+Y3W+HATERX+)](https://git.io/typing-svg)
 
 
  # Script run on termux 
